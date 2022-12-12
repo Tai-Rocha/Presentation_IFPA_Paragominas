@@ -1,0 +1,86 @@
+---
+title: " Interface meio ambiente e tecnologia"
+subtitle: "Desafios e Oprotunidades"
+author: Tainá Rocha
+institute: Pesquisadora e cientista de dados <br> Programa de Pesquisa em Biodiversidade - MCTI
+date: today
+date-format: "dddd, [the] D[<sup style='font-size:65%;font-style:italic;'>th</sup>] [of] MMMM, YYYY"
+embed-resources: false
+format: coeos-revealjs
+---
+
+```{r}
+#| include: false
+sysfonts::font_add_google("Alegreya Sans", "Alegreya Sans", regular.wt = 300)
+showtext::showtext_auto()
+source("_extensions/coeos/setup-ggplot2-coeos.R")
+```
+
+## Meio ambiente e as novas tecnologias
+
+```{r img1, echo=FALSE, fig.align='center', out.width="40%"}
+knitr::include_graphics("images/1.jpeg")
+```
+<center>[Instituto Internacional para Sustentabilidade](https://www.iis-rio.org/)</center>
+
+
+## Meio ambiente e as novas tecnologias
+
+```{r img2, echo=FALSE, fig.align='center', out.width="60%"}
+knitr::include_graphics("images/imag_2.png")
+```
+<center>[Instituto Internacional para Sustentabilidade](https://www.iis-rio.org/)</center>
+
+## Dados de  Biodiversidade 
+
+```{r gbif, echo=FALSE, fig.align='center', out.width="80%"}
+knitr::include_graphics("images/gbif.png")
+```
+
+<center>[Global Biodiversity Information Facility](https://www.gbif.org/)</center>
+
+## Gridder
+
+Ferramenta em R para melhorar/corrigir a qualidade de dados do GBIF
+
+```{r gridder, echo=FALSE, fig.align='center', out.width="90%"}
+knitr::include_graphics("images/gridder.png")
+```
+
+## GBIF Ebbe Nielsen Challenge
+
+```{r win, echo=FALSE, fig.align='center', out.width="100%"}
+knitr::include_graphics("images/honors.png")
+```
+<center>[Preprint](https://ecoevorxiv.org/repository/view/3752/) & 
+[Github](https://github.com/BiogeographyLab/gridder.github.io)</center>  
+
+## Desafios
+
+Computacionais: Processamento e RH qualificado
+
+```{r compute, echo=FALSE, fig.align='center', out.width="100%"}
+knitr::include_graphics("images/compute.png")
+```
+
+Feng et al. 2020
+
+
+## Take-home messages
+
+- Setor ambiental cada vez mais dependente de novas tecnologias  
+
+- Apesar de crescente o volume de dados, também é ampla variedade de fontes de erros associados
+
+- Ferramentas para minimizar tais fontes de erros é essencial para bons resultados e insights
+
+## 
+
+<center> Obrigada! </center>
+<br/>
+<br/>
+<center><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/11633554?v=4" width="250px"/></center>
+<center>[`r fontawesome::fa("github")` @Tai-Rocha](https://github.com/Tai-Rocha)</center>    
+<center>[`r fontawesome::fa("twitter")` @Tai_Rocha_](https://twitter.com/Tai_Rocha_)</center>   
+<center>[`r fontawesome::fa("link")` tainaweb-en.netlify.app](https://tainaweb-en.netlify.app/)</center>
+
