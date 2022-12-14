@@ -83,7 +83,7 @@ Feng et al. 2020
 
 - Setor ambiental cada vez mais dependente de novas tecnologias  
 
-- Mão de obra que qualificada para atuar nessa iterface (meio ambiente e TI) 
+- Mão de obra qualificada para atuar nessa iterface (meio ambiente e TI) 
 
 - Apesar de crescente o volume de dados, também é ampla variedade de fontes de erros associados
 
