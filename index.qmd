@@ -1,6 +1,6 @@
 ---
 title: " Interface meio ambiente e tecnologia"
-subtitle: "Desafios e Oprotunidades"
+subtitle: "Desafios e Oportunidades"
 author: Tainá Rocha
 institute: Pesquisadora e cientista de dados <br> Programa de Pesquisa em Biodiversidade - MCTI
 date: today
