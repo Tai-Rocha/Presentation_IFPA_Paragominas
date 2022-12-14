@@ -23,13 +23,26 @@ knitr::include_graphics("images/1.jpeg")
 ```
 <center>[Instituto Internacional para Sustentabilidade](https://www.iis-rio.org/)</center>
 
-
 ## Meio ambiente e as novas tecnologias
 
-```{r img2, echo=FALSE, fig.align='center', out.width="60%"}
+```{r iss2, echo=FALSE, fig.align='center', out.width="40%"}
 knitr::include_graphics("images/imag_2.png")
 ```
 <center>[Instituto Internacional para Sustentabilidade](https://www.iis-rio.org/)</center>
+
+
+## Meio ambiente e as novas tecnologias
+
+```{r langs, echo=FALSE, fig.align='center', out.width="40%"}
+knitr::include_graphics("images/langs.png")
+```
+
+## Meio ambiente e as novas tecnologias
+
+```{r GEE, echo=FALSE, fig.align='center', out.width="40%"}
+knitr::include_graphics("images/GEE.png")
+```
+
 
 ## Dados de  Biodiversidade 
 
@@ -69,6 +82,8 @@ Feng et al. 2020
 ## Take-home messages
 
 - Setor ambiental cada vez mais dependente de novas tecnologias  
+
+- Mão de obra que qualificada para atuar nessa iterface (meio ambiente e TI) 
 
 - Apesar de crescente o volume de dados, também é ampla variedade de fontes de erros associados
 
